@@ -1,4 +1,4 @@
-# Capstone-Project-1 | multi-page resume website using only HTML
+#Multi-page resume website using only HTML |Capstone-Project-1 |
 
 This is my first Capstone project. I have built a multi-page resume website using only HTML in this project.  
 
